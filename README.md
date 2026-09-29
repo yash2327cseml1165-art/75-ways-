@@ -5,7 +5,7 @@ The project demonstrates secure authentication, role-based access control, cours
 
 ## Live Demo
 
-- Repository: https://github.com/ANUSHK-24/Major_lms
+- Repository: https://github.com/yash2327cseml1165-art/75-ways-
 - Live Application: https://major-lms-2.onrender.com/
 
 ## Overview
